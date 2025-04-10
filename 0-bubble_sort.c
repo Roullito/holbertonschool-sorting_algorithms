@@ -1,5 +1,11 @@
 #include "sort.h"
 
+/**
+ * swap - Swaps two integers in memory
+ * @a: Pointer to first integer
+ * @b: Pointer to second integer
+ */
+
 void swap(int *a, int *b)
 {
 	int temp = 0;
